@@ -3,14 +3,10 @@ This repository contains methods for probability manipulation and sampling from 
 
 ## Contents
 my  
-
 ├── stat  
 │   ├── distr  
-
 │   │   ├── Exponential.py  
-
 │   │   ├── Gamma.py  
-
 │   │   ├── Normal.py  
 
 │   │   ├── proGamma.py  
