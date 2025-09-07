@@ -8,16 +8,13 @@ my
 │   │   ├── Exponential.py  
 │   │   ├── Gamma.py  
 │   │   ├── Normal.py  
-
 │   │   ├── proGamma.py  
-
 │   │   ├── Wishart.py  
-
 │   │   └── __init__.py  
-
 │   ├── _core.py  
-
 │   └── __init__.py  
+├── _core.py  
+└── __init__.py  
 
 ├── _core.py  
 
