@@ -5,7 +5,6 @@ This repository contains methods for probability manipulation and sampling from 
 my  
 
 ├── stat  
-
 │   ├── distr  
 
 │   │   ├── Exponential.py  
